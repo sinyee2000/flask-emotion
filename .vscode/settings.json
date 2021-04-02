@@ -30,5 +30,6 @@
         "venv.bak{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/1743ebab-8980-4586-a8d3-d10d830d316a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/usmbigdata"
 }
